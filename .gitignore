@@ -1,0 +1,14 @@
+data/
+output/
+.venv/
+venv/
+.vscode/
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.env
+*.key
+.DS_Store
