@@ -1,4 +1,5 @@
 # crypto-pairs-leadlag
+(in process)
 
 Intra-sector pairs lead-lag statistical arbitrage on crypto perpetual futures.
 A methodology-first backtest built to a strict statistical-rigor standard, using public market data only.
